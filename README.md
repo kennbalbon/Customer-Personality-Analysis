@@ -13,7 +13,7 @@ This project is an end-to-end data analytics pipeline designed to optimize marke
 Through rigorous SQL querying and point-in-time analysis (anchored to 2014), the following core business metrics are presented on the main dashboard page:
 1. **Executive Financial Baseline:** Surfaces an **Avg. Customer Income of $52.25K** alongside an **Avg. Total Revenue of $607.08**, providing leadership with immediate baseline performance benchmarks.
 2. **Generational Revenue Curve:** Proves that the **50-59** and **60+** age cohorts act as the primary revenue engines of the business, holding the highest average spend per customer.
-3. **Product Preference Matrix:** Implements a visual conditional heatmap tracking product preferences against marital status, making it instantly obvious which demographic segments drive high-margin **Wine** and **Meat** volume.
+3. **Product Preference Matrix:** Implemented a structured Matrix visual tracking average spending across premium categories (Wines, Meats, Gold) against marital status, pinpointing exactly which demographic segments drive volume in high-margin product lines.
 4. **Channel Allocation Strategy:** Segments purchasing channels by income brackets, revealing that **High-Income** and **Very High-Income** segments heavily favor physical **In-Store** and offline **Catalog** orders over digital Web interactions.
 
 ## 📁 Repository Structure
